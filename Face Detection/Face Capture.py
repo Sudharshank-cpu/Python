@@ -23,4 +23,4 @@ while True:
 		break
 #Release Video Capture Object
 cap.release()
-#"pip install opencv-python" to import cv2(pip version is above 3.4)
+#"pip install cv" to import cv2(pip version is above 3.4)
